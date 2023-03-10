@@ -1,0 +1,5 @@
+.news-info:hover{
+    transform: scale(1.02);
+    /*background-color: #f1f1f1;*/
+    transition: .2s ease-out;
+}
